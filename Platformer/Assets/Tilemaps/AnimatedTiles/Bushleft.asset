@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Bushleft
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 3814497870490984575, guid: 8815302fd36a07540a34c625d2ad4e80, type: 3}
+  - {fileID: -7729194851879709436, guid: 8815302fd36a07540a34c625d2ad4e80, type: 3}
+  - {fileID: 1667108532528284318, guid: 8815302fd36a07540a34c625d2ad4e80, type: 3}
+  - {fileID: -3137036250112015404, guid: 8815302fd36a07540a34c625d2ad4e80, type: 3}
+  - {fileID: -4097245920635554709, guid: 8815302fd36a07540a34c625d2ad4e80, type: 3}
+  - {fileID: 6487825463475047835, guid: 8815302fd36a07540a34c625d2ad4e80, type: 3}
+  - {fileID: 5500909974246001549, guid: 8815302fd36a07540a34c625d2ad4e80, type: 3}
+  - {fileID: -3946658261312579559, guid: 8815302fd36a07540a34c625d2ad4e80, type: 3}
+  - {fileID: 9060550731218135432, guid: 8815302fd36a07540a34c625d2ad4e80, type: 3}
+  - {fileID: 5629225384153266742, guid: 8815302fd36a07540a34c625d2ad4e80, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

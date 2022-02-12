@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Animated Fire Tile
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -2054060958033223745, guid: 22cd96aa666036e468ab409d4f3bbc58, type: 3}
+  - {fileID: 4331536305653945132, guid: 22cd96aa666036e468ab409d4f3bbc58, type: 3}
+  - {fileID: -5848552864040587884, guid: 22cd96aa666036e468ab409d4f3bbc58, type: 3}
+  - {fileID: -4747085282374725907, guid: 22cd96aa666036e468ab409d4f3bbc58, type: 3}
+  - {fileID: 2377108279894806984, guid: 22cd96aa666036e468ab409d4f3bbc58, type: 3}
+  - {fileID: 2947690301097779412, guid: 22cd96aa666036e468ab409d4f3bbc58, type: 3}
+  - {fileID: -4352573747005312075, guid: 22cd96aa666036e468ab409d4f3bbc58, type: 3}
+  - {fileID: -2231321064900406641, guid: 22cd96aa666036e468ab409d4f3bbc58, type: 3}
+  - {fileID: 9020945529722823260, guid: 22cd96aa666036e468ab409d4f3bbc58, type: 3}
+  - {fileID: -1533221629337183998, guid: 22cd96aa666036e468ab409d4f3bbc58, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
