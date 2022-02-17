@@ -632,6 +632,9 @@ TextureImporter:
   - first:
       213: 8612518379160639619
     second: FreeAsset_209
+  - first:
+      213: -64732253267790029
+    second: FreeAsset_210
   externalObjects: {}
   serializedVersion: 11
   mipmaps:

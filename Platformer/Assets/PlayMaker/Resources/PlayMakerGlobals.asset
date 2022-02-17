@@ -79,4 +79,5 @@ MonoBehaviour:
     categories:
     - 
     variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000
-  events: []
+  events:
+  - Finished Attack
