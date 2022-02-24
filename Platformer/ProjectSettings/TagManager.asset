@@ -21,8 +21,8 @@ TagManager:
   - Player
   - Bullet
   - Pickup
-  - 
-  - 
+  - Weapon
+  - Enemy
   - 
   - 
   - 
