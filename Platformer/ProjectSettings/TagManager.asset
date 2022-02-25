@@ -8,6 +8,8 @@ TagManager:
   - Weapon
   - Pickup
   - UI Equip
+  - Damage
+  - Ground
   layers:
   - Default
   - TransparentFX
