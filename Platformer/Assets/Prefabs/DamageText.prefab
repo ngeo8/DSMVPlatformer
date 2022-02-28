@@ -318,7 +318,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: EnemyHealth
+          value: Health
         - useVariable: 0
           name: 
           tooltip: 

@@ -10,6 +10,7 @@ TagManager:
   - UI Equip
   - Damage
   - Ground
+  - EnemyWeapon
   layers:
   - Default
   - TransparentFX
@@ -19,13 +20,13 @@ TagManager:
   - UI
   - Ground
   - EnemyHitbox
-  - 
+  - PlayerHitbox
   - Player
   - Bullet
   - Pickup
   - Weapon
   - Enemy
-  - 
+  - EnemyWeapon
   - 
   - 
   - 
